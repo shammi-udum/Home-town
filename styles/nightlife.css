@@ -1,0 +1,14 @@
+body{
+    background: #22223b;
+    color: #ffffff;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px black;
+}
+
+img {
+    width: 400px;
+}
+
+a{
+    color: #ffffff;
+}

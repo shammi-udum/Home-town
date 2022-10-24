@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Exo', sans-serif;
+}
+.hero{
+    background-image: url(/images/Capitalbuilding.jpg);
+    background-size: cover;
+    padding: 300px 20px;
+    color: #ffff;
+    font-weight: bold;
+}
+.avatar {
+    width: 250px;
+}
+.activities {
+    background-color: #f1faee;
+    padding-top: 10px;
+}
+
+.column {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.columns {
+    display: flex;
+    justify-content: space-around;
+}
+
+.guide {
+    padding: 100px;
+    background: #e63946;
+}
+
+.image {
+    width: 150px;
+    border-radius: 50px;
+    transition: all 1s;
+}
+
+.image:hover {
+    transform: scale(2.1);
+}
+
+.hero-title {
+    font-size: 48px;
+    margin: 30px auto;
+    width: 500px;
+    text-shadow: 2px 2px 4px black;
+}
+
+.hero-subtitle {
+    font-size: 36px;
+    width: 600px;
+    margin: 0 auto;
+    text-shadow: 2px 2px 4px black;
+}
+
+.card {
+    border-bottom: #1D3557 5px solid;
+    border-radius: 10px;
+    margin: 0 auto;
+    background: #ffffff;
+    color: #457B9D;
+    display: flex;
+    justify-content: space-around;
+    padding: 2px;
+    font-size: 24px;
+    width: 500px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
