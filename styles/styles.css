@@ -4,7 +4,7 @@ body {
     font-family: 'Exo', sans-serif;
 }
 .hero{
-    background-image: url(/images/Capitalbuilding.jpg);
+    background-image: url("/images/Capitalbuilding.jpg");
     background-size: cover;
     padding: 300px 20px;
     color: #ffff;
